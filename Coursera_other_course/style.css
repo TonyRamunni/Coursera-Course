@@ -1,0 +1,11 @@
+div .container{
+	background-color: red;
+}
+div .row{
+	background-color: red;
+}
+
+div .visible-lg{
+	color:black;
+	font-family: Arial;
+}
